@@ -6,6 +6,11 @@ public class MergeAndBranchDemo {
 	{
 		System.out.println("Method M1...");
 	}
+	
+	public void  m5()
+	{
+		System.out.println("Method M5...");
+	}
 	public static void main(String[] args) {
 		
 		
