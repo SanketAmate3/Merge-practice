@@ -25,4 +25,9 @@ public class MergeAndBranchDemo {
 		
 		System.out.println("AKASHHHH Kaddamm");
 	}
+	
+	public void  m1()
+	{
+		System.out.println("Method M1...");
+	}
 }
