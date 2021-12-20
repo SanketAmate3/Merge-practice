@@ -25,4 +25,10 @@ public class MergeAndBranchDemo {
 		
 		System.out.println("AKASHHHH Kaddamm");
 	}
+	
+	public void  bc()
+	{
+		System.out.println("Team BC");
+	}
+	
 }
